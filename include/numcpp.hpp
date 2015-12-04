@@ -9,10 +9,10 @@
 
 namespace numcpp {
     
-    static const char __A = 'A';
-    static const char __N = 'N';
-    static const char __U = 'U';
-    static const char __L = 'L';
+    static const char _A_ = 'A';
+    static const char _N_ = 'N';
+    static const char _U_ = 'U';
+    static const char _L_ = 'L';
 
     template <typename T>
     class col {
